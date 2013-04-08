@@ -1,4 +1,4 @@
-Drupal on OpenShift
+Drupal with BlazeMeter on OpenShift
 ===================
 
 This Git repository helps you get up and running quickly w/ a Drupal
